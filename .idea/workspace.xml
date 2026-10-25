@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="802c2b0b-33b2-4bf6-b6e9-e71b00afcf3d" name="Changes" comment="Ez">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/are you happy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jj.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skyquest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skyquest2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Puro67/Project-1---SkyQuest.git&quot;,
+    &quot;accountId&quot;: &quot;ee3f5dd1-b926-4068-95de-094bfefd184a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JP48e94lry9xRGh0iaK8gAprhi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.123.executor&quot;: &quot;Run&quot;,
+    &quot;Python.456.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.789.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.A7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Project test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.are you happy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conversion_workshop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gvgvvg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.skyquest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.skyquest2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.skyquest_updated.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Thanh/PycharmProjects/test1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Thanh\PycharmProjects\test1" />
+      <recent name="C:\Users\Thanh\PycharmProjects\test1\.venv" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="802c2b0b-33b2-4bf6-b6e9-e71b00afcf3d" name="Changes" comment="" />
+      <created>1789549212024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789549212024</updated>
+      <workItem from="1789549213050" duration="363000" />
+      <workItem from="1789957655716" duration="539000" />
+      <workItem from="1789973422998" duration="7000" />
+      <workItem from="1789973441374" duration="1021000" />
+      <workItem from="1789976191290" duration="632000" />
+      <workItem from="1789976844338" duration="2736000" />
+      <workItem from="1789981320727" duration="1638000" />
+      <workItem from="1790427040917" duration="465000" />
+      <workItem from="1790427655597" duration="446000" />
+      <workItem from="1790578277436" duration="3729000" />
+      <workItem from="1790584365638" duration="615000" />
+      <workItem from="1790585791366" duration="642000" />
+      <workItem from="1791184131023" duration="1684000" />
+      <workItem from="1791190678493" duration="401000" />
+      <workItem from="1791449114464" duration="329000" />
+      <workItem from="1791618582544" duration="44000" />
+      <workItem from="1791618958718" duration="86000" />
+      <workItem from="1791789126314" duration="1339000" />
+      <workItem from="1791960512023" duration="6000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ez">
+      <option name="closed" value="true" />
+      <created>1792927466114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1792927466114</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ez" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ez" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test1$gvgvvg.coverage" NAME="gvgvvg Coverage Results" MODIFIED="1791190997077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test1$main.coverage" NAME="main Coverage Results" MODIFIED="1789979079189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test1$1011.coverage" NAME="1011 Coverage Results" MODIFIED="1791184300045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test1$are_you_happy.coverage" NAME="are you happy Coverage Results" MODIFIED="1789982825335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test1$123.coverage" NAME="123 Coverage Results" MODIFIED="1789981518575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test1$456.coverage" NAME="456 Coverage Results" MODIFIED="1790582618364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test1$789.coverage" NAME="789 Coverage Results" MODIFIED="1790584832659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
