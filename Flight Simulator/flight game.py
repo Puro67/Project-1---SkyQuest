@@ -13,6 +13,7 @@ clock = pygame.time.Clock()
 title_font = pygame.font.SysFont("Arial", 100, bold=True)
 font = pygame.font.SysFont("Arial", 50)
 small_font = pygame.font.SysFont("Arial", 30)
+instruction_font = pygame.font.SysFont("Arial", 20)
 
 # Player data:
 player = pygame.image.load("Image/Plane.png")
@@ -75,8 +76,13 @@ while running:
     # ---------------- START SCREEN ----------------
     if state == "menu":
         screen.fill((90, 190, 245))
-        draw_text("SKYQUEST", title_font, (255, 255, 255), (WIDTH // 2, 200))
+        draw_text("SKYQUEST", title_font, (255, 255, 255), (WIDTH // 2, 75))
         screen.blit(player, (WIDTH // 2 - 45, 270))
+
+        draw_text("Fly through three levels, dodge obstacles, and collect coins to repair your plane or boost your final score.",
+                  instruction_font, (255, 255, 255), (WIDTH // 2, 200))
+        draw_text("Keep your plane intact and gather as many coins as you can!",
+                  instruction_font, (255, 255, 255), (WIDTH // 2, 250))
 
         # Ticking line
         if (pygame.time.get_ticks() // 500) % 2 == 0:
@@ -138,7 +144,7 @@ while running:
     elif state == "game_over":
         screen.fill((40, 40, 60))
         draw_text("GAME OVER", title_font, (255, 80, 80), (WIDTH // 2, 230))
-        draw_text("Press ENTER or SPACE to get back to main screen", small_font, (255, 255, 255), (WIDTH // 2, 370))
+        draw_text("Press ENTER or SPACE to get back to the main screen", small_font, (255, 255, 255), (WIDTH // 2, 370))
 
     pygame.display.flip()
 
