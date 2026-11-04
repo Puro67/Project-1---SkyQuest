@@ -37,6 +37,10 @@ spawn_time = random.uniform(1.0, 3.0)
 # Game state: "menu", "playing" or "game_over"
 state = "menu"
 
+# Time limit for the level (seconds)
+level_time = 30
+time_left = level_time
+
 # Made texts are in the center
 def draw_text(text, text_font, color, center):
     img = text_font.render(text, True, color)
@@ -51,6 +55,7 @@ def reset_game():
     player_hp = 100
     spawn_timer = 0
     spawn_time = random.uniform(1.0, 3.0)
+    time_left = level_time
     obstacles.clear()
 
 
@@ -91,6 +96,10 @@ while running:
 
     # ---------------- PLAYING ----------------
     elif state == "playing":
+        # Countdown
+        time_left -= dt
+        if time_left <= 0:
+            state = "win"
         # Player movement
         if keys[pygame.K_w]:
             player_y -= player_speed
@@ -145,7 +154,11 @@ while running:
         screen.fill((40, 40, 60))
         draw_text("GAME OVER", title_font, (255, 80, 80), (WIDTH // 2, 230))
         draw_text("Press ENTER or SPACE to get back to the main screen", small_font, (255, 255, 255), (WIDTH // 2, 370))
-
+    # ---------------- WIN ----------------
+    elif state == "win":
+        screen.fill((30, 90, 60))
+        draw_text("LEVEL COMPLETE!", title_font, (255, 255, 255), (WIDTH // 2, 230))
+        draw_text("Press ENTER or SPACE to get back to main screen", small_font, (255, 255, 255), (WIDTH // 2, 370))
     pygame.display.flip()
 
 pygame.quit()
